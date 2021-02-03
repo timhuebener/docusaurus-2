@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Introduction: ['welcome'],
-//     Features: ['mdx'],
+    Introduction: ['welcome', 'mentality', 'course_structure'],
+    "The Basics": ['basics_intro', 'html', 'git'],
   },
 };
