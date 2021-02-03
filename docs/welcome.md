@@ -1,0 +1,31 @@
+---
+id: welcome
+title: Welcome
+sidebar_label: welcome
+---
+
+# Welcome
+## Purpose
+This website is a collection of what I have learnt as a computer science student and from many hours of developing software in my free time.
+When starting out learning to code I really had no idea where to start. I had many questions like: Which language should I learn? 
+Why the f*** are there so many languages in the first place? What is the difference between web development and programming? and many many more
+
+When going through the sub-reddit IWantToLearn, you frequently find posts of people wanting to learn programming. And the answers are usually same. 
+Either they recommend websites like codecademy.com, freecodecamp.org (which is a great website) or they send you to some university's online courses 
+for computer science. ‌How I see it these are two very different ways of learning. 
+
+Websites like freecodecamp.org and alike, make it so easy that you almost never run into any frustration while learning. 
+Which is really nice while doing the exercises on their website. However, you do not actually process what is being taught and you will find that 
+once you close the website you can hardly recollect what you have just learnt.
+
+I call this fast food learning as it reminds me of eating at McDonalds. While you are at McDonalds the food tastes really good and you have the feeling 
+that you had enough to eat. But once you leave the restaurant you kind of start to feel hungry again. The opposite of this are the university courses. 
+They are surely dense with reliable information (which is awesome), but they just dump all of that onto you, presented in the most boring powerpoint 
+presentations there are (why do university always have to worst powerpoint presentations?). And then they basically say, good luck we don't care about you, 
+since this is a free online course. This is the opposite of fast food learning and is extremely frustrating and most people are very likely to quit their 
+attempt at learning to program very quickly. I definitely did!
+
+So this website is my attempt at finding the middle ground between these two types of learning. I will try to answer all the questions you have or at 
+least many of them and most importantly I will introduce you step by step to the different concepts and tools you need to know.
+So please do yourself (and me) a favor and for now forget all the questions you have and everything you think you know. 
+This will make it a lot easier for yourself.
