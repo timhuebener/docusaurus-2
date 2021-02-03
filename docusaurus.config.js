@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'Learn Web Development',
+  tagline: 'The collaborative way to learn web development',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
@@ -8,7 +8,7 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Learn Web Development',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -17,15 +17,15 @@ module.exports = {
         {
           to: 'docs/doc1',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Course',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
+//         {to: 'blog', label: 'Blog', position: 'left'},
+//         {
+//           href: 'https://github.com/facebook/docusaurus',
+//           label: 'GitHub',
+//           position: 'right',
+//         },
       ],
     },
     footer: {
@@ -88,12 +88,12 @@ module.exports = {
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
-        },
+//         blog: {
+//           showReadingTime: true,
+//           // Please change this to your repo.
+//           editUrl:
+//             'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+//         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
